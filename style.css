@@ -1,0 +1,167 @@
+#content{
+  	font-family: 'Saira', sans-serif; 
+  	width:1200px;
+  	margin-left:auto;
+  	margin-right:auto;
+  	border: 1px solid #bfbfbf;
+	text-align: justify;
+ }
+ 
+#logo{
+ 	background-image: url("images/logo.png");
+ 	height:250px;
+ 	margin-bottom:5px;
+ }
+ 
+#menu{
+ 	margin-bottom:5px;
+ 	background-color:#e3e2e2;
+ }
+ 
+.main{
+	float:left;
+	margin-left:50px;
+	margin-top:50px;
+	font-size:20px;  
+	width:550px;
+	margin-bottom:80px;
+  }
+  
+#mainfot{
+	float:left; 
+	background-image: url("images/main.png");
+	width:450px;
+	height:450px;
+	margin-left:100px;
+	margin-top:60px;
+  }
+  
+.info{
+	padding-left:10px; 
+ 	padding-top:30px; 
+ 	width:1000px;
+ 	margin-bottom:20px;
+ 	margin-left:100px;
+ }
+ 
+.fota{
+ 	margin-left:50px;
+ 	float:right;
+ 	width:170px;
+ 	height:180px;
+ }
+ 
+h1{
+	font-size:24px;
+	padding-left:5px;
+	border-bottom: 1px solid #bfbfbf;
+ }
+ 
+h2{
+	 font-size:26px;
+	 padding-left:5px;
+	 font-weight: bold;
+	 text-align:center;
+	 border-bottom: 1px solid #bfbfbf;	  
+ }
+ 
+
+#boxspec{
+	width:1140px;
+    margin-left:30px;
+	margin-bottom:30px;
+  }
+  
+    /* striped table color 1 style */
+.spec1{
+   float:left;
+   width:556px;
+   background-color:#c7c6c6;
+   border: 2px solid #ffffff;
+   padding-left:10px;
+   font-weight: bold;
+   padding-top:5px;
+   padding-bottom:5px;
+ }
+ 
+  /* striped table color 2 style */
+.spec2{
+   float:left;
+   width:556px;
+   background-color:#e3e2e2;
+   border: 2px solid #ffffff;
+   padding-left:10px;
+   font-weight: bold;
+   padding-top:5px;
+   padding-bottom:5px;
+  }
+ 
+#galeria{
+ margin-bottom:5px;
+ margin-left:100px;
+ }
+ 
+ /* specs link style */
+#divinity1{
+	 width:300px;
+	 margin-left:450px;
+	 text-align:center;
+	 border-bottom: 1px solid #bfbfbf;
+	 font-weight: bold;
+	 margin-top:60px;
+	 margin-bottom:30px;
+	 font-size:24px;
+ }
+ 
+  /* gallery link style */ 
+#divinity2{
+	 width:300px;
+	 margin-left:450px;
+	 text-align:center;
+	 border-bottom: 1px solid #bfbfbf;
+	 font-weight: bold;
+	 margin-top:60px;
+	 margin-bottom:30px;
+	 font-size:24px;
+ }
+ 
+ /* Clear both div style */
+#elo{
+	 clear:both;
+ }
+
+  /* list style */
+ol{
+	text-align:center;
+	padding: 0;
+	margin: 0;
+	list-style-type: none;
+	font-size: 18px;
+	height:35px;
+	line-height: 200%;
+	display: inline-block;	
+}
+
+ol a{
+	color: #000000;
+	text-decoration: none;
+	display: block;	
+}
+
+ol > li{
+	float: left;
+	width: 150px;
+	height: 40px;
+	border-right: 1px solid #000000;
+}
+
+ol > li:first-child{
+	border-left: 1px solid #000000;
+}
+
+ol > li:hover{
+	background-color: #ffffff;
+}
+	
+
+
